@@ -51,5 +51,7 @@
 
 **Intro to JAX & Flax:** [https://phlippe.github.io/media/GDE_Talk_Intro_to_JAX_Flax_2022_12_06.pdf](https://phlippe.github.io/media/GDE_Talk_Intro_to_JAX_Flax_2022_12_06.pdf)
 
+## Jaxtronomy
 
+**Jaxtronomy:** [https://github.com/google-research/google-research/tree/master/jaxstronomy](https://github.com/google-research/google-research/tree/master/jaxstronomy)
 
